@@ -1,0 +1,5 @@
+På hver av de åtte testområdene:
+1. Merge overlappende raster filer fra HRL_TC
+1.1 Noen områder trenger Fix geometries
+2. Clip Raster by mask layer
+3. Zonal Statistics
