@@ -1,5 +1,4 @@
-På hver av de åtte testområdene:
-1. Merge overlappende raster filer fra HRL_TC
-1.1 Noen områder trenger Fix geometries
-2. Clip Raster by mask layer
-3. Zonal Statistics
+1. Sammenslåing av overlappende HRL Tree Cover Density rasterfiler (Merge)
+2. Fiksing av geometrier i TreeCover-polygoner der nødvendig (Fix Geometries)
+3. Klipping av HRL Tree Cover Density raster mot testområdene (Clip Raster by mask layer)
+4. Beregning av gjennomsnittlig HRL Tree Cover Density per TreeCover-polygon ved hjelp av zonalstatistikk (Zonal Statistics)
