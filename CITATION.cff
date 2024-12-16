@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Klingenberg"
+  given-names: "Torgeir Ferdinand"
+  orcid: "https://orcid.org/0000-0003-2438-139X"
+  affiliation: Norwegian Mapping Authority
+title: "FerdinandKlingenberg/tree-cover-density-comparison: V1.0.0"
+version: 1.0.0
+doi: 10.5281/zenodo.14446598
+date-released: 2024-12-13
+url: "https://github.com/FerdinandKlingenberg/tree-cover-density-comparison"
+license: MIT
